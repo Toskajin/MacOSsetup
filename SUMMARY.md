@@ -13,7 +13,7 @@
 * [VIM](vim.md)
 * [Python](python/README.md)
   * [pip](python/pip.md)
-  * [Ipython](python/ipython.md)
+  * [IPython](python/ipython.md)
   * [Virtualenv](python/virtualenv.md)
 * [Xcode](xcode.md)
 
