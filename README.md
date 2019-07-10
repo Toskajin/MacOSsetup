@@ -1,4 +1,4 @@
-# [macOS Setup Guide](https://royjin.gitbook.io/macos-setup/)
+# [MacOS Setup Guide](https://royjin.gitbook.io/macos-setup/)
 
 | branch | status |
 | ------ | ------ |
