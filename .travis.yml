@@ -1,1 +1,8 @@
-language: python
+sudo: false
+language: node_js
+os:
+  - linux
+  - osx
+node_js:
+  - "stable"
+  - "4.1"
