@@ -1,6 +1,8 @@
----
-description: Based one 10.14.5 MacOS Mojave
----
+# [MacOS Setup Guide](https://royjin.gitbook.io/macos-setup/)
+
+| branch | status |
+| ------ | ------ |
+| `master` | [![Build Status](https://travis-ci.org/Toskajin/MacOSsetup.svg?branch=master)](https://travis-ci.org/Toskajin/MacOSsetup) 
 
 # MacOS Setup Guidance
 
