@@ -6,6 +6,7 @@
   * [Using Homebrew](homebrew/using-homebrew.md)
   * [cask](homebrew/cask.md)
 * [Terminal](terminal/README.md)
+  * [iterm2](terminal/iterm2.md)
   * [Terminal Hot keys](terminal/terminal-hot-keys.md)
   * [Zsh](terminal/zsh.md)
   * [Fish](terminal/fish.md)
