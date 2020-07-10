@@ -1,7 +1,6 @@
 # Table of contents
 
 * [MacOS Setup Guidance](README.md)
-* [System Preferences](system-preferences.md)
 * [Homebrew](homebrew/README.md)
   * [Using Homebrew](homebrew/using-homebrew.md)
   * [cask](homebrew/cask.md)
